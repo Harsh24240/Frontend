@@ -1,4 +1,4 @@
-# Beeper Clone — Unified Messaging UI
+# Xlon — Unified Messaging UI
 
 A React prototype replicating the Beeper unified chat interface.
 
